@@ -13,4 +13,9 @@ Technically Private is a inter-university group of graduate students who meet an
 
 Interested? Join our google group [here](https://groups.google.com/g/technically-private/). 
 
+<!-- 
 We're primarily led by [Roy Rinberg](https://royrinberg.com/), a graduate student at Columbia University.
+
+
+-->
+
