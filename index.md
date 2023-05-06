@@ -9,8 +9,8 @@ permalink: /
 
 
 ### **Who are we?**
-Techically Private is a inter-university group of graduate students who meet and discuss privacy and security topics.
+Technically Private is a inter-university group of graduate students who meet and discuss privacy and security topics. 
 
 Interested? Join our google group [here](https://groups.google.com/g/technically-private/). 
 
-It is led by [Roy Rinberg](https://royrinberg.com/), a graduate student at Columbia University.
+We're primarily led by [Roy Rinberg](https://royrinberg.com/), a graduate student at Columbia University.
