@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-06T16:26:41-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Technically Private</title><subtitle>Technically Private </subtitle><entry><title type="html">Resources for Technical Privacy</title><link href="http://localhost:4000/privacy/2023/04/06/technical-privacy-resources.html" rel="alternate" type="text/html" title="Resources for Technical Privacy" /><published>2023-04-06T00:00:00-04:00</published><updated>2023-04-06T00:00:00-04:00</updated><id>http://localhost:4000/privacy/2023/04/06/technical-privacy-resources</id><content type="html" xml:base="http://localhost:4000/privacy/2023/04/06/technical-privacy-resources.html">&lt;p&gt;&lt;em&gt;Taken from &lt;a href=&quot;https://technicallyprivate.substack.com/p/privacy-resourceshtml&quot;&gt;Roy Rinberg’s Substack here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are some resources that may be helpful:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summaries&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.opendp.org/en/stable/resources/index.html&quot;&gt;OpenDP Documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;DifferentialPrivacy.org&quot;&gt;DifferentialPrivacy.org&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Textbooks&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf&quot;&gt;The Algorithmic Foundations of Differential Privacy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ieeexplore.ieee.org/document/7731575&quot;&gt;Differential Privacy: From Theory to Practice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://programming-dp.com/&quot;&gt;Programming Differential Privacy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Blog Series&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://desfontain.es/privacy/differential-privacy-reading-list.html&quot;&gt;Damien Desfontaines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://differentialprivacy.org/&quot;&gt;DifferentialPrivacy.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/dp-blog&quot;&gt;NIST&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Course Materials&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jnear.github.io/cs211-data-privacy/&quot;&gt;Programming Differential Privacy&lt;/a&gt; - Joe Near (It’s a quick start for programmers)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gautamkamath.com/CS860-fa2020.html&quot;&gt;Algorithms for Private Data Analysis&lt;/a&gt; - Gautam Kamath&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cis.upenn.edu/~aaroth/courses/privacyF11.html&quot;&gt;The Algorithmic Foundations of Data Privacy&lt;/a&gt; - Aaron Roth&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dpcourse.github.io/&quot;&gt;Privacy in Statistics and ML&lt;/a&gt; - Adam Smith and Jonathan Ullman&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://people.seas.harvard.edu/~salil/cs208/spring19/&quot;&gt;Applied Privacy for Data Science&lt;/a&gt; - James Honaker &amp;amp; Salil Vadhan&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cs-people.bu.edu/gaboardi/teaching/CSE660-fall17.html&quot;&gt;Differential Privacy&lt;/a&gt; - Marco Gaboardi&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wisdom.weizmann.ac.il/~naor/COURSE/foundations_of_privacy.html&quot;&gt;Foundations of Privacy&lt;/a&gt; - Moni Naor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Informal Educational Materials&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://becominghuman.ai/what-is-differential-privacy-1fd7bf507049&quot;&gt;What is Differential Privacy Basics&lt;/a&gt; - Medium&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Less Technical Primers&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3338027&quot;&gt;Differential Privacy: A Primer for a Non-Technical Audience&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jnear.github.io/cs211-data-privacy/&quot;&gt;Programming Differential Privacy&lt;/a&gt; (This is linked above, it’s semi-technical, but it really only requires computer science background, not a mathematical one.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Code&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/opendp&quot;&gt;OpenDP github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opacus.ai/tutorials/&quot;&gt;Opacus (pytorch opensoure DP library for Deep Learning)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Community&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opendp.org/&quot;&gt;OpenDP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://privacytools.seas.harvard.edu/&quot;&gt;Harvard Privacy tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/surveillance.jpg&quot; alt=&quot;surveillance.jpg&quot; width=&quot;500&quot; /&gt;&lt;/p&gt;</content><author><name>Roy Rinberg</name></author><category term="privacy" /><summary type="html">Taken from Roy Rinberg’s Substack here</summary></entry></feed>

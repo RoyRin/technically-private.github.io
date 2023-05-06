@@ -55,3 +55,6 @@ Here are some resources that may be helpful:
 * [Harvard Privacy tools](https://privacytools.seas.harvard.edu/)
 
 
+
+
+<img src="{{site.url}}/assets/surveillance.jpg" alt="surveillance.jpg" width="500">
