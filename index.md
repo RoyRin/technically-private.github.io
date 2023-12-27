@@ -24,9 +24,4 @@ If you'd like to join, join our google group [here](https://groups.google.com/g/
 Interdisciplinary groups like [MD4SG](https://www.md4sg.com) have emerged to foster collaborations across disciplines and build research and practice pipelines.
 
 
-<!-- 
-We're primarily led by [Roy Rinberg](https://royrinberg.com/), a graduate student at Columbia University.
-
-
--->
 

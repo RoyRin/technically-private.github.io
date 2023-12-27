@@ -14,6 +14,8 @@ Here are some resources that may be helpful:
 
 * [OpenDP Documentation](https://docs.opendp.org/en/stable/resources/index.html)
 * [DifferentialPrivacy.org](DifferentialPrivacy.org)
+* [The New Oil](https://thenewoil.org/en/)
+
 
 **Textbooks**
 
@@ -41,6 +43,7 @@ Here are some resources that may be helpful:
 **Informal Educational Materials**
 
 * [What is Differential Privacy Basics](https://becominghuman.ai/what-is-differential-privacy-1fd7bf507049) - Medium
+* [The New Oil](https://thenewoil.org/en/)
 
 **Less Technical Primers**
 * [Differential Privacy: A Primer for a Non-Technical Audience](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3338027)
